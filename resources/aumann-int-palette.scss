@@ -1,0 +1,47 @@
+/* Aumann Interiors - https://coolors.co/ffffff-ae855d-e5a7a7-f8d798-100f0b */
+
+/* CSS HEX */
+--white: #ffffffff;
+--chamoisee: #ae855dff;
+--melon: #e5a7a7ff;
+--peach-yellow: #f8d798ff;
+--smoky-black: #100f0bff;
+
+/* CSS HSL */
+--white: hsla(0, 0%, 100%, 1);
+--chamoisee: hsla(30, 33%, 52%, 1);
+--melon: hsla(0, 54%, 78%, 1);
+--peach-yellow: hsla(39, 87%, 78%, 1);
+--smoky-black: hsla(48, 19%, 5%, 1);
+
+/* SCSS HEX */
+$white: #ffffffff;
+$chamoisee: #ae855dff;
+$melon: #e5a7a7ff;
+$peach-yellow: #f8d798ff;
+$smoky-black: #100f0bff;
+
+/* SCSS HSL */
+$white: hsla(0, 0%, 100%, 1);
+$chamoisee: hsla(30, 33%, 52%, 1);
+$melon: hsla(0, 54%, 78%, 1);
+$peach-yellow: hsla(39, 87%, 78%, 1);
+$smoky-black: hsla(48, 19%, 5%, 1);
+
+/* SCSS RGB */
+$white: rgba(255, 255, 255, 1);
+$chamoisee: rgba(174, 133, 93, 1);
+$melon: rgba(229, 167, 167, 1);
+$peach-yellow: rgba(248, 215, 152, 1);
+$smoky-black: rgba(16, 15, 11, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-right: linear-gradient(90deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-bottom: linear-gradient(180deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-left: linear-gradient(270deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-top-right: linear-gradient(45deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-bottom-right: linear-gradient(135deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-top-left: linear-gradient(225deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-bottom-left: linear-gradient(315deg, #ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
+$gradient-radial: radial-gradient(#ffffffff, #ae855dff, #e5a7a7ff, #f8d798ff, #100f0bff);
