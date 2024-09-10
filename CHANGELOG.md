@@ -8,7 +8,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- 
+- Photos to homepage slideshow (2024.09.10)
+- About page (2024.09.10)
+- WIP page (2024.09.10)
+- Other Works page (maybe Completed Works?) (2024.09.10)
+- Contact page (2024.09.10)
+- Get photos from client for pages (2024.09.10)
+- Make a full page for each project? In addition to summary pages? (2024.09.10)
 
 ### Changed
 
@@ -18,7 +24,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- Initial set up of base files
+- Initial set up of base files (2024.09.09)
   - index.html
   - styles.css
   - color scheme
+- Initial layout of homepage; still waiting for color scheme confirmation from client (2024.09.10)
